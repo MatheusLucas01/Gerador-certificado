@@ -1,0 +1,16 @@
+.navbar {
+  background-color: #fff;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.navbar-logo {
+  height: 40px; // Largura da logo
+}
+
+.active {
+  color: #3b5acc; // Cor azul para o link ativo
+}
+.nav-link.active {
+  color: #3b5acc; // Cor azul para o link ativo
+}
